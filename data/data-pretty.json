@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "resultset": {
+            "count": 11,
+            "limit": 25,
+            "offset": 1
+        }
+    },
+    "results": [
+        {
+            "datacoverage": 1,
+            "id": "GHCND",
+            "maxdate": "2021-09-09",
+            "mindate": "1763-01-01",
+            "name": "Daily Summaries",
+            "uid": "gov.noaa.ncdc:C00861"
+        },
+        {
+            "datacoverage": 1,
+            "id": "GSOM",
+            "maxdate": "2021-09-01",
+            "mindate": "1763-01-01",
+            "name": "Global Summary of the Month",
+            "uid": "gov.noaa.ncdc:C00946"
+        },
+        {
+            "datacoverage": 1,
+            "id": "GSOY",
+            "maxdate": "2021-01-01",
+            "mindate": "1763-01-01",
+            "name": "Global Summary of the Year",
+            "uid": "gov.noaa.ncdc:C00947"
+        },
+        {
+            "datacoverage": 0.95,
+            "id": "NEXRAD2",
+            "maxdate": "2021-09-08",
+            "mindate": "1991-06-05",
+            "name": "Weather Radar (Level II)",
+            "uid": "gov.noaa.ncdc:C00345"
+        },
+        {
+            "datacoverage": 0.95,
+            "id": "NEXRAD3",
+            "maxdate": "2021-09-08",
+            "mindate": "1994-05-20",
+            "name": "Weather Radar (Level III)",
+            "uid": "gov.noaa.ncdc:C00708"
+        },
+        {
+            "datacoverage": 1,
+            "id": "NORMAL_ANN",
+            "maxdate": "2010-01-01",
+            "mindate": "2010-01-01",
+            "name": "Normals Annual/Seasonal",
+            "uid": "gov.noaa.ncdc:C00821"
+        },
+        {
+            "datacoverage": 1,
+            "id": "NORMAL_DLY",
+            "maxdate": "2010-12-31",
+            "mindate": "2010-01-01",
+            "name": "Normals Daily",
+            "uid": "gov.noaa.ncdc:C00823"
+        },
+        {
+            "datacoverage": 1,
+            "id": "NORMAL_HLY",
+            "maxdate": "2010-12-31",
+            "mindate": "2010-01-01",
+            "name": "Normals Hourly",
+            "uid": "gov.noaa.ncdc:C00824"
+        },
+        {
+            "datacoverage": 1,
+            "id": "NORMAL_MLY",
+            "maxdate": "2010-12-01",
+            "mindate": "2010-01-01",
+            "name": "Normals Monthly",
+            "uid": "gov.noaa.ncdc:C00822"
+        },
+        {
+            "datacoverage": 0.25,
+            "id": "PRECIP_15",
+            "maxdate": "2014-01-01",
+            "mindate": "1970-05-12",
+            "name": "Precipitation 15 Minute",
+            "uid": "gov.noaa.ncdc:C00505"
+        },
+        {
+            "datacoverage": 1,
+            "id": "PRECIP_HLY",
+            "maxdate": "2014-01-01",
+            "mindate": "1900-01-01",
+            "name": "Precipitation Hourly",
+            "uid": "gov.noaa.ncdc:C00313"
+        }
+    ]
+}

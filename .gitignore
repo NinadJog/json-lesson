@@ -1,0 +1,7 @@
+.stack-work/
+*~
+data/metadata.json
+data/NOAAResponse.json
+data/NOAAResult.json
+data/resultset.json
+data/array.json
