@@ -3,7 +3,7 @@
 Reads a JSON file and parses the data into Haskell data types using Aeson.
 
 Based upon Lesson 40: _Working with JSON Data by Using Aeson_ from the Manning book,
-_Get Programming with Haskell_ by Will Kurt.
+**Get Programming with Haskell** by Will Kurt.
 
 Contains the following changes from the book's code.
 
@@ -23,6 +23,7 @@ automatically overwritten while doing stack build.
 
 Here's the output from running this program.
 
+````
 "Daily Summaries"
 "Global Summary of the Month"
 "Global Summary of the Year"
@@ -34,3 +35,4 @@ Here's the output from running this program.
 "Normals Monthly"
 "Precipitation 15 Minute"
 "Precipitation Hourly"
+````
